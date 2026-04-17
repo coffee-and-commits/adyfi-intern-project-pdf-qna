@@ -1,11 +1,6 @@
 """
 rag_pipeline.py  (v2 — Dynamic Retrieval + Query-Aware Strategy)
-------------------------------------------------------------------
-New additions:
-  - Query classification  : factual | descriptive | summary
-  - Score-threshold K     : dynamic chunk count based on L2 distance
-  - MMR retrieval         : diverse chunk selection for descriptive queries
-  - Hierarchical summary  : map-reduce summarization for overview queries
+
 """
 
 import os
