@@ -6,4 +6,5 @@ An intelligent **PDF Question-Answering system** that allows users to upload a P
 ## 🌐 Live Application
 You can view deployed web app here:  
 👉 [Open App](https://adyfi-intern-project-pdf-qna.streamlit.app/)
+![Alt Text](images/demo.png)
 
